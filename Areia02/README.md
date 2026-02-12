@@ -1,7 +1,7 @@
 # treine.me
 
 Landing page desenvolvida com HTML, CSS e JavaScript a partir de um layout criado no Figma.  
-O projeto apresenta uma página inicial para divulgação de treinos físicos em casa.
+O projeto apresenta uma página inicial para divulgação de treinos fisicos em casa.
 
 Possui:
 - Navbar com navegação
