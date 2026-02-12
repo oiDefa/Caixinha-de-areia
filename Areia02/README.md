@@ -1,35 +1,16 @@
 # treine.me
 
-Landing page desenvolvida a partir de um layout proposto no Figma, com foco em treinos exclusivos para atividades físicas em casa.
+Landing page desenvolvida com HTML, CSS e JavaScript a partir de um layout criado no Figma.  
+O projeto apresenta uma página inicial para divulgação de treinos físicos em casa.
 
-O objetivo do projeto é praticar a construção de interfaces web utilizando **HTML, CSS e JavaScript**, aplicando boas práticas de organização, responsividade e semântica.
+Possui:
+- Navbar com navegação
+- Seção principal (hero) com texto e imagem
+- Botão "Comece já" com ícone do WhatsApp
+- Redirecionamento para conversa no WhatsApp
+- Layout responsivo
+- Organização em pastas (assets, css e js)
 
----
+Para executar, basta abrir o arquivo `index.html` no navegador.
 
-## Tecnologias utilizadas
-
-- HTML5
-- CSS3 (Flexbox + Responsivo)
-- JavaScript
-- Figma (base do design)
-
----
-
-## Layout
-
-O design da página foi baseado no protótipo disponibilizado no Figma.
-
-Principais elementos implementados:
-
- Navbar com logo e links  
- Seção Hero com título destacado  
- Imagem ilustrativa  
- Botão WhatsApp estilizado  
- Footer com contato  
- Layout responsivo para mobile  
- Estrutura de pastas organizada  
-
----
-
-## Estrutura do projeto
-
+Autor: Kaio Felipe Aviz Lima Lopes
