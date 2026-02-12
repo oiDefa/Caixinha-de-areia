@@ -7,7 +7,7 @@ Possui:
 - Navbar com navegação
 - Seção principal (hero) com texto e imagem
 - Botão "Comece já" com ícone do WhatsApp
-- Redirecionamento para conversa no WhatsApp
+- Redirecionamento para conversa no WhatsApp (Apenas um pop-up mostrando um numero não existente)
 - Layout responsivo
 - Organização em pastas (assets, css e js)
 
